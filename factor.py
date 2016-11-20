@@ -21,7 +21,7 @@ print("""Copyright \u00a9 2016 Michael Wood
 Enter a list of the coefficients separated by commas.
 The last number entered will be treated as the constant term.
 Use a minus sign for subtraction of the coefficient.
-Ex.\tFor:\t\u03ba(x) = x\u2074 - 5x\u00b3 + 5x\u00b2 + 17x - 42
+Ex.\tFor:\tf(x) = x\u2074 - 5x\u00b3 + 5x\u00b2 + 17x - 42
 \tType:\t1, -5, 5, 17, -42
 
 Use the zeroes function with your arguments to find the factors
